@@ -1,0 +1,132 @@
+body {
+  padding-top: 10px;
+}
+.name {
+  padding: 10px 15px ;
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+
+  }
+h1 {
+  font-family: Helvetica;
+  font-weight: 300;
+
+  }
+.nav {
+  list-style-type: none;
+  width: 900px;
+  margin: 20px auto;
+  text-align: center;
+
+  }
+
+li {
+  display: inline-block;
+
+  }
+
+li a {
+  padding: 0 20px;
+  color: #B7B7B7;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: Helvetica;
+  }
+
+li a:hover {
+  color: #111;
+  }
+
+div.header {
+  text-align: center;
+}
+
+
+div.header img {
+  width:1152px;
+  margin-top: 10px;
+}
+
+div.title h3 {
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: 40px;
+}
+
+
+div.SlideVideo img {
+  width: 350px;
+}
+
+div.SlideVideo {
+  text-align: center;
+  display: inline-flex;
+  align-items: flex-start;
+}
+
+div.container {
+  display: inline-box;
+
+  margin: 20px 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.SlideVideo {
+  margin-top: 50px;
+}
+
+
+
+
+
+div.WeiboGallery {
+  margin-top: 60px;
+}
+
+div.weibo {
+  display: inline-block;
+  margin: 15px 3px 60px 3px;
+  padding: 20px 10px;
+  border: 1px solid #ccc;
+}
+
+div.weibo img {
+  width: 324px;
+  height: 276px;
+
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+div.weibo:hover {
+  border: 1px solid darkgrey;
+}
+
+.footer {
+   position: relative;
+   width: 100%;
+   height: 90px;
+   color: grey;
+   text-align: center;
+   font-size: 15px;
+   font-family: Helvetica;
+}
