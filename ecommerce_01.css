@@ -38,7 +38,9 @@ li a:hover {
   color: #111;
   }
 
-
+.active2 {
+  color: black;
+}
 
 
 div.header {
