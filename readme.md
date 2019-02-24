@@ -1,4 +1,4 @@
-# github upload
+# how to upload to github
 
 * git add .
 * git commit -m "your comment"
