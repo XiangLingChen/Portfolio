@@ -38,6 +38,10 @@ li a:hover {
   color: #111;
   }
 
+.active {
+  color: black;
+}
+
 div.GalleryFrame {
   text-align: center;
   margin: -30px auto;
@@ -56,6 +60,7 @@ div.gallery img {
     margin: 15px 15px;
     
 }
+
 
 
 
