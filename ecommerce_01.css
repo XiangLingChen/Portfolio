@@ -173,6 +173,10 @@ div.container {
     .prev, .next,.text {font-size: 11px}
   }
 
+div.desc {
+  margin-top: -3px;
+  margin-left: -10px;
+}
   
 
 div .desc1 p{

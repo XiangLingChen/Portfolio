@@ -173,13 +173,15 @@ div.container {
     .prev, .next,.text {font-size: 11px}
   }
 
-  
-
-div.desc {
-  margin-left: -20px;
-  margin-top: 0px;
+div.up {
+  margin-left: -12px;
+  margin-top: -2px;
 }
 
+div.right {
+  margin-left: -13px;
+  margin-top: -2px;
+}
 
 div .desc1 p{
   margin-left: 25px;
