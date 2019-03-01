@@ -50,7 +50,7 @@ div.header {
 
 div.header img {
   width:1152px;
-  margin-top: 10px;
+  margin-top: 16px;
 }
 
 
@@ -174,6 +174,12 @@ div.container {
   }
 
   
+
+div.desc {
+  margin-left: -20px;
+  margin-top: 0px;
+}
+
 
 div .desc1 p{
   margin-left: 25px;

@@ -50,7 +50,7 @@ div.header {
 
 div.header img {
   width:1152px;
-  margin-top: 10px;
+  margin-top: 16px;
 }
 
 
@@ -150,30 +150,34 @@ div.container {
     background-color: #717171;
   }
   
-  /* Fading animation */
-  .mySlides {
-    -webkit-animation-name: fade;
-    -webkit-animation-duration: 1.5s;
-    animation-name: fade;
-    animation-duration: 1.5s;
-  }
+/* Fading animation */
+.mySlides {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
   
-  @-webkit-keyframes fade {
-    from {opacity: .4} 
-    to {opacity: 1}
-  }
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
   
-  @keyframes fade {
-    from {opacity: .4} 
-    to {opacity: 1}
-  }
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
   
-  /* On smaller screens, decrease text size */
-  @media only screen and (max-width: 300px) {
-    .prev, .next,.text {font-size: 11px}
-  }
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
 
-  
+
+div.desc {
+  margin-top: 9px;
+}
+
 
 div .desc1 p{
   margin-left: 25px;
