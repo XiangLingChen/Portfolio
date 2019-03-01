@@ -97,22 +97,28 @@ div.fix {
         margin: 28px auto;
         
       }
-      div.gallery {
-          margin: 0 -5px;
-          text-align: center;
-          display: inline-block;
+    div.gallery {
+      margin: 0 -5px;
+      text-align: center;
+      display: inline-block;
           
           
-        }
+    }
       
-      div.gallery img {
-          width: auto;
-          height: 450px;
-          margin: 15px 15px;
+    div.gallery img {
+      width: auto;
+      height: 450px;
+      margin: 15px 15px;
           
-      }
+    }
 
-
+    
+  .desc {
+    font-family: Helvetica;
+    font-size: 14px;
+    margin-top: 12px;
+    
+  }
 
 
 
