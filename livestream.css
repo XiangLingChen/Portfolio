@@ -94,7 +94,7 @@ div.fix {
 
     div.GalleryFrame {
         text-align: center;
-        margin: 28px auto;
+        margin: 30px auto;
         
       }
     div.gallery {
@@ -127,8 +127,55 @@ div.fix {
 
 
 
-    div.detail img {
+    div.detail1 img {
+      width: 600px;
+      margin-top: 80px;
+      margin-left: -340px;
+    }
+    div.detail2 img{
+      width: 600px;
+      margin-top: 55px;
+      margin-left: 410px;
+    }
+
+ 
+
+    .detail1intro {
+      margin-left: 620px;
+      margin-top: -330px;
+      font-family: Helvetica;
+    }
+
+    .detail1intro p{
+      font-size: 18px;
+      font-family: Helvetica;
+    }
+ 
+
+    .detail2intro {
+      margin-left: -580px;
+      margin-top: -260px;
       
+    }
+
+    .detail2intro p{
+    font-family: Helvetica;
+    font-size: 18px;
+    
+    }
+
+    
+
+    .detailtitle p {
+      font-family: Helvetica;
+      font-size: 22px;
+      margin-top: 250px;
+      
+    }
+
+    .detailtitle img {
+      width: 950px;
+      margin-top: 50px;
     }
 
 
