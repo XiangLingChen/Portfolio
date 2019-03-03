@@ -130,31 +130,37 @@ div.fix {
     div.detail1 img {
       width: 600px;
       margin-top: 70px;
-      margin-left: -340px;
+      margin-left: -380px;
     }
     div.detail2 img{
       width: 600px;
-      margin-top: 55px;
+      margin-top: 23px;
       margin-left: 410px;
     }
 
  
 
     .detail1intro {
-      margin-left: 620px;
-      margin-top: -330px;
+      margin-left: 600px;
+      margin-top: -540px;
       font-family: Helvetica;
+      
     }
 
     .detail1intro p{
-      font-size: 18px;
+      font-size: 17px;
       font-family: Helvetica;
+    }
+
+    .detail1intro img {
+      width: 125px;
+      margin-top: 190px;
     }
  
 
     .detail2intro {
-      margin-left: -580px;
-      margin-top: -260px;
+      margin-left: -600px;
+      margin-top: -235px;
       
     }
 
@@ -169,7 +175,7 @@ div.fix {
     .detailtitle p {
       font-family: Helvetica;
       font-size: 22px;
-      margin-top: 250px;
+      margin-top: 230px;
       
     }
 
