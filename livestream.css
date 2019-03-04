@@ -108,7 +108,7 @@ div.fix {
     div.gallery img {
       width: auto;
       height: 450px;
-      margin: 15px 15px;
+      margin: 15px 17px;
           
     }
 
@@ -150,6 +150,7 @@ div.fix {
     .detail1intro p{
       font-size: 17px;
       font-family: Helvetica;
+      margin-left: 5px;
     }
 
     .detail1intro img {
@@ -159,7 +160,7 @@ div.fix {
  
 
     .detail2intro {
-      margin-left: -600px;
+      margin-left: -595px;
       margin-top: -235px;
       
     }
