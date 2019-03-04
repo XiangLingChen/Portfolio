@@ -82,8 +82,8 @@ body {
 
     div.GalleryFrame {
         text-align: center;
-        margin: 30px auto;
-        
+        margin: 25px auto;
+        margin-top: -10px;
       }
     div.gallery {
       margin: 55px auto;
@@ -103,8 +103,8 @@ body {
     
   .desc {
     font-family: Helvetica;
-    font-size: 16px;
-    margin-top: 15px;
+    font-size: 18px;
+    margin-top: 12px;
   
   }
 
