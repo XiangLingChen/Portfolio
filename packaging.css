@@ -43,41 +43,41 @@ body {
   }
   
 
-  #subnav {
-    text-align: center;
-}
-
-div.buttons {
-    text-align: center;
-    margin: 18px 16px;
-    display: inline-block;
-        
-}
-
-.back {
-    font-family: Helvetica;
-    font-size: 15px;
-    text-decoration: none;
-    color: black;
-    padding: 9px 22px;
-    background-color: white;
-    border: 0.7px solid darkgrey;
-        
+    #subnav {
+        text-align: center;
     }
-
-div.fix {
-    font-family: Helvetica;
-    font-size: 15px;
-    color: black;
-    padding: 9px 57px;
-    background-color: rgb(238, 238, 238);
-    border: 0.7px solid black;
-}
-  
-.back:hover {
-    background: rgb(238, 238, 238);
-    border: 0.7px solid black;
-}
+    
+    div.buttons {
+        text-align: center;
+        margin: 18px 16px;
+        display: inline-block;
+            
+    }
+    
+    .back {
+        font-family: Helvetica;
+        font-size: 15px;
+        text-decoration: none;
+        color: black;
+        padding: 9px 57px;
+        background-color: white;
+        border: 0.7px solid darkgrey;
+            
+        }
+    
+    div.fix {
+        font-family: Helvetica;
+        font-size: 15px;
+        color: black;
+        padding: 9px 35px;
+        background-color: rgb(238, 238, 238);
+        border: 0.7px solid black;
+    }
+      
+    .back:hover {
+        background: rgb(238, 238, 238);
+        border: 0.7px solid black;
+    }  
 
 
     div.GalleryFrame {
