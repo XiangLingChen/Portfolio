@@ -49,7 +49,7 @@ body {
 
 div.buttons {
     text-align: center;
-    margin: 18px 16px;
+    margin: 10px 16px;
     display: inline-block;
         
 }
@@ -59,7 +59,7 @@ div.buttons {
     font-size: 15px;
     text-decoration: none;
     color: black;
-    padding: 9px 22px;
+    padding: 9px 35px;
     background-color: white;
     border: 0.7px solid darkgrey;
         
@@ -69,7 +69,7 @@ div.fix {
     font-family: Helvetica;
     font-size: 15px;
     color: black;
-    padding: 9px 22px;
+    padding: 9px 57px;
     background-color: rgb(238, 238, 238);
     border: 0.7px solid black;
 }
@@ -81,16 +81,13 @@ div.fix {
 
 
     div.GalleryFrame {
-        text-align: center;
-        margin: 25px auto;
-        margin-top: -10px;
-      }
-    div.gallery {
-      margin: 55px auto;
       text-align: center;
-      
-          
-          
+      margin: 25px auto;
+      margin-top: -10px;
+    }
+    div.gallery {
+      margin: 35px auto;
+      text-align: center;
     }
       
     div.gallery img {

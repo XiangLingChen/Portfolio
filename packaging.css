@@ -69,7 +69,7 @@ body {
         font-family: Helvetica;
         font-size: 15px;
         color: black;
-        padding: 9px 25px;
+        padding: 9px 34px;
         background-color: rgb(238, 238, 238);
         border: 0.7px solid black;
     }
@@ -79,11 +79,10 @@ body {
         border: 0.7px solid black;
     }  
 
-
-  div.header img{
-    width: 1000px;
-    
-  }
+    div.header img {
+      width:100%;
+      margin-top: 38px;
+    }
 
 
 
