@@ -1,0 +1,122 @@
+body {
+    padding-top: 10px;
+  }
+  .name {
+    padding: 10px 15px ;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+  
+    }
+  h1 {
+    font-family: Helvetica;
+    font-weight: 300;
+  
+    }
+  .nav {
+    list-style-type: none;
+    width: 900px;
+    margin: 20px auto;
+    text-align: center;
+  
+    }
+  
+  li {
+    display: inline-block;
+  
+    }
+  
+  li a {
+    padding: 0 20px;
+    color: #B7B7B7;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Helvetica;
+    }
+  
+  li a:hover {
+    color: #111;
+    }
+
+  .active {
+    color: black;
+  }
+  
+
+    
+
+
+    div.WeiboGallery {
+        margin-top: 20px;
+        text-align: center;
+      }
+      
+      div.weibo {
+        display: inline-block;
+        margin: 20px 14px;
+        padding: 25px 20px;
+        border: 1px solid #ccc;
+        
+      }
+      
+      div.weibo img {
+        width: auto;
+        height: 300px;
+      
+      }
+      
+      div.desc {
+        padding: 10px;
+        text-align: center;
+        margin-top: 10px;
+        font-family: Helvetica;
+        font-size: 13px;
+      }
+      
+      div.weibo:hover {
+        border: 1px solid rgb(122, 122, 122);
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    position: relative;
+    width: 100%;
+    height: 60px;
+    color: grey;
+    text-align: center;
+    font-size: 12px;
+    font-family: Helvetica;
+    margin-top:  140px;
+ }
