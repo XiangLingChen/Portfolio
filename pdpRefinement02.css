@@ -30,7 +30,7 @@ body {
     padding: 0 20px;
     color: #B7B7B7;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 16px;
     font-family: Helvetica;
     }
   
@@ -115,7 +115,31 @@ body {
 
 
 
-
+    .back {
+      font-family: Helvetica;
+      font-size: 15px;
+      text-decoration: none;
+      color: black;
+      padding: 15px 28px;
+      background-color: white;
+      border: 0.7px solid darkgrey;
+      
+    }
+    
+    .bottom {
+      margin-top: 80px;
+    }
+    
+    .back:hover {
+      background:rgb(238, 238, 238);
+    }
+    
+    
+    .h_line { 
+      width:100%; 
+      height:1px; 
+      background: rgba(201, 201, 201, 0.8)
+    }
 
 
 
