@@ -81,7 +81,7 @@ body {
 
     div.header img {
       width:100%;
-      margin-top: 38px;
+      margin-top: 23px;
     }
 
 
@@ -96,7 +96,8 @@ body {
     div.header2 img {
       width: 60%;
       margin-top: 70px;    
-      text-align: center;  
+      text-align: center; 
+      
     }
 
     div.header2 {

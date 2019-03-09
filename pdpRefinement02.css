@@ -43,45 +43,11 @@ body {
   }
   
 
-    #subnav {
-        text-align: center;
-    }
     
-    div.buttons {
-        text-align: center;
-        margin: 18px 16px;
-        display: inline-block;
-            
-    }
-    
-    .backto {
-        font-family: Helvetica;
-        font-size: 15px;
-        text-decoration: none;
-        color: black;
-        padding: 9px 51px;
-        background-color: white;
-        border: 0.7px solid darkgrey;
-            
-        }
-    
-    div.fix {
-        font-family: Helvetica;
-        font-size: 15px;
-        color: black;
-        padding: 9px 34px;
-        background-color: rgb(238, 238, 238);
-        border: 0.7px solid black;
-    }
-      
-    .back:hover {
-        background: rgb(238, 238, 238);
-        border: 0.7px solid black;
-    }  
 
     div.header img {
       width:100%;
-      margin-top: 38px;
+      margin-top: 23px;
     }
 
 
@@ -96,7 +62,7 @@ body {
     div.header2 img {
       width: 60%;
       margin-top: 70px;      
-      
+      margin-left: -3px
     }
 
     div.header2 {
