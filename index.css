@@ -42,25 +42,46 @@ li a:hover {
   color: black;
 }
 
-div.portrait {
-  margin-top: 60px;
+
+
+div.frame {
+  text-align: center;
+  margin-top: 80px;
+  
 }
 
-div.portrait img {
-  width: 300px;
+div.pic img{
+  width:350px;
+}
+
+div.intro {
+  margin-top: 30px;
+  font-family: Helvetica;
+  
 }
 
 div.me {
-  font-family: Helvetica; 
-  font-size: 24px;
+  font-size: 23px;
 }
-.title {
-  font-family: Helvetica; 
+div.title {
+  margin-top: 18px;
+  color: rgb(53, 100, 41)
 }
 
-ul.intro2 {
-  list-style-type: circle;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
