@@ -64,10 +64,37 @@ div.me {
   font-size: 23px;
 }
 div.title {
-  margin-top: 18px;
+  margin-top: 25px;
   color: rgb(102, 102, 102)
 }
 
+div.experience {
+  text-align: center;
+  margin-top: 80px;
+}
+
+div.experience img {
+  width:800px;
+}
+
+div.work {
+  text-align: center;
+  margin-top: 25px;
+  font-family: Helvetica;
+}
+
+div.aboutwork {
+  font-size: 23px;
+  font-family: Helvetica;
+}
+
+
+
+div.details {
+  margin-top: 23px;
+  color: rgb(102, 102, 102)
+  
+}
 
 
 
@@ -119,4 +146,5 @@ div.title {
    padding-top: 50px;
    font-size: 12px;
    font-family: Helvetica;
+   margin-top: 120px;
 }
