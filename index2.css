@@ -87,9 +87,16 @@ div.fix {
 
 div.GalleryFrame {
   text-align: center;
-  margin: 25px auto;
+  margin: 25px auto 2px auto;
 
 }
+
+div.GalleryFrame1 {
+  text-align: center;
+  margin: 2px auto;
+
+}
+
 div.gallery {
     margin: 0 -5px;
     text-align: center;
