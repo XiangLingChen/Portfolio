@@ -79,10 +79,13 @@ body {
         border: 0.7px solid black;
     }  
 
-
+    #frame {
+      margin-top: 26px;
+      text-align: center;
+    }
 
     div.WeiboGallery {
-        margin-top: 20px;
+        margin-top: 5px;
       }
       
       div.weibo {
