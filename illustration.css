@@ -44,10 +44,12 @@ body {
   
 
     
-
+    div.frame {
+      margin-top: 17px;
+    }
 
     div.WeiboGallery {
-        margin-top: 20px;
+        margin-top: 1px;
         text-align: center;
       }
       
