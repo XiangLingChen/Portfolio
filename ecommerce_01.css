@@ -79,7 +79,8 @@ div.SlideVideo {
 }
 
 div.container {
-  display: inline-box;
+  display: inline-block;
+  vertical-align: text-top;
   margin: -10px 30px;
   
   

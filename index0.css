@@ -1,0 +1,122 @@
+body {
+  padding-top: 10px;
+}
+.name {
+  padding: 10px 15px ;
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+
+  }
+h1 {
+  font-family: Helvetica;
+  font-weight: 300;
+
+  }
+.nav {
+  list-style-type: none;
+  width: 900px;
+  margin: 20px auto;
+  text-align: center;
+
+  }
+
+li {
+  display: inline-block;
+
+  }
+
+li a {
+  padding: 0 20px;
+  color: #B7B7B7;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: Helvetica;
+  }
+
+li a:hover {
+  color: #111;
+  }
+
+.active {
+  color: black;
+}
+
+
+div.header {
+  text-align: center;
+}
+
+
+div.header img {
+  width: 100%;
+  margin-top: 16px;
+}
+
+
+div.title h1 {
+  font-family: Helvetica;
+  font-size: 22px;
+  font-weight: 300;
+  margin-top: 60px;
+  text-align: center;
+}
+
+
+div.flowchart {
+  margin-top: 60px;
+}
+
+
+div.flowchart img {
+  width: 950px;
+}
+
+div.twopics {
+  display: inline-block;
+  vertical-align: text-top;
+  margin: 50px 20px;
+}
+
+
+div.twopics img {
+  width: 450px;
+  box-shadow: 1px 1px 5px rgb(226, 226, 226);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 60px;
+   color: grey;
+   text-align: center;
+   padding-top: 50px;
+   font-size: 12px;
+   font-family: Helvetica;
+}
