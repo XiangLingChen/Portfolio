@@ -69,25 +69,26 @@ div.flowchart {
 
 
 div.flowchart img {
-  width: 1000px;
+  width: 100%;
 }
 
 div.twopics {
-  display: inline-block;
-  vertical-align: text-top;
   margin: 50px 20px;
 }
 
 
 div.twopics img {
-  width: 400px;
-  box-shadow: 1px 1px 5px rgb(226, 226, 226);
+  width: 100%;
+  
+}
+div.demo {
+  margin-top: 50px
 }
 
 
-
-
-
+div.demo img {
+  width: 350px;
+}
 
 
 
