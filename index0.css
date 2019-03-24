@@ -90,6 +90,20 @@ div.demo img {
   width: 350px;
 }
 
+.back {
+  font-family: Helvetica;
+  font-size: 15px;
+  text-decoration: none;
+  color: black;
+  padding: 9px 57px;
+  background-color: white;
+  border: 0.7px solid darkgrey;
+  }
+
+  .back:hover {
+    background: rgb(238, 238, 238);
+    border: 0.7px solid black;
+}  
 
 
 
