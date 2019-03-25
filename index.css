@@ -52,6 +52,7 @@ div.frame {
 
 div.pic img{
   width:350px;
+  
 }
 
 div.intro {
@@ -74,7 +75,8 @@ div.experience {
 }
 
 div.experience img {
-  width:800px;
+  width:65%;
+  min-width: 500px;
 }
 
 div.work {
