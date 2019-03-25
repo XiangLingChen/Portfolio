@@ -67,6 +67,10 @@ div.flowchart {
   margin-top: 50px;
 }
 
+div.flowchart p{
+  font-family: Helvetica;
+  font-size: 20px;
+}
 
 div.flowchart img {
   width: 100%;
@@ -82,12 +86,16 @@ div.twopics img {
   
 }
 div.demo {
-  margin-top: 50px
+  margin-top: 10px
 }
 
 
 div.demo img {
   width: 350px;
+}
+
+div.buttons {
+  margin-top: 100px;
 }
 
 .back {
@@ -105,9 +113,33 @@ div.demo img {
     border: 0.7px solid black;
 }  
 
+  div.states_signIn {
+    margin-top: 60px;
+  }
 
+  div.states_signIn img {
+    width: 100%;
+    margin-top: 30px;
+  }
 
+  div.states_signIn p {
+  font-family: Helvetica;
+  font-size: 20px;
+  }
 
+  div.states_signUp {
+    margin-top: 60px;
+  }
+
+  div.states_signUp img {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  div.states_signUp p {
+  font-family: Helvetica;
+  font-size: 20px;
+  }
 
 
 
