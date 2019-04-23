@@ -71,7 +71,7 @@ div.flowchart {
 
 div.flowchart p{
   font-family: Helvetica;
-  font-size: 20px;
+  font-size: 24px;
 }
 
 div.flowchart img {
@@ -116,7 +116,7 @@ div.buttons {
 }  
 
   div.states_signIn {
-    margin-top: 60px;
+    margin-top: 90px;
   }
 
   div.states_signIn img {
@@ -126,11 +126,20 @@ div.buttons {
 
   div.states_signIn p {
   font-family: Helvetica;
-  font-size: 20px;
+  font-size: 24px;
+  }
+
+  div.detail p{
+  font-family: Helvetica;
+  font-size: 18px;
+  }
+
+  div.detail {
+    margin-top: 30px;
   }
 
   div.states_signUp {
-    margin-top: 60px;
+    margin-top: 100px;
   }
 
   div.states_signUp img {
@@ -140,7 +149,16 @@ div.buttons {
 
   div.states_signUp p {
   font-family: Helvetica;
-  font-size: 20px;
+  font-size: 24px;
+  }
+
+  div.signupDetail p{
+    font-family: Helvetica;
+    font-size: 18px;
+    }
+  
+  div.signupDetail {
+    margin-top: 30px;
   }
 
 
