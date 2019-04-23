@@ -56,16 +56,18 @@ div.pic img{
 }
 
 div.intro {
-  margin-top: 30px;
+  margin-top: 35px;
   font-family: Helvetica;
-  
+  text-align: center;
 }
+
+
 
 div.me {
   font-size: 23px;
 }
 div.title {
-  margin-top: 25px;
+  margin-top: 30px;
   color: rgb(102, 102, 102)
 }
 
@@ -93,7 +95,7 @@ div.aboutwork {
 
 
 div.details {
-  margin-top: 28px;
+  margin-top: 36px;
   color: rgb(102, 102, 102)
   
 }
