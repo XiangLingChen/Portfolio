@@ -67,9 +67,9 @@ div.gallery {
   }
 
 div.gallery img {
-    width: 400px;
-    height: 400px;
-    margin: 18px 18px;
+    width: auto;
+    height: 350px;
+    margin: 18px 30px;
     
 }
 

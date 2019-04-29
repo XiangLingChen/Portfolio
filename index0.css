@@ -78,6 +78,19 @@ div.flowchart img {
   width: 100%;
 }
 
+div.wireframe {
+  margin-top: 50px;
+}
+
+div.wireframe p{
+  font-family: Helvetica;
+  font-size: 24px;
+}
+
+div.wireframe img {
+  width: 90%;
+}
+
 div.twopics {
   margin: 50px 20px;
 }
