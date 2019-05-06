@@ -16,11 +16,15 @@ body {
 
   }
 
-.header2 {
+.sec2 {
   margin-top: 0px;
 }
 
-.header img {
+.sec1 img{
+  width: 100%;
+}
+
+.sec2 img{
   width: 100%;
 }
 
