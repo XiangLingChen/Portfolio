@@ -7,7 +7,12 @@ body {
   width: 400px;
   margin: 0 auto;
 
+  }
+h1 {
+  font-family: Helvetica;
+  font-weight: 300;
 
+  }
 .nav {
   list-style-type: none;
   width: 900px;
@@ -16,8 +21,29 @@ body {
 
   }
 
+li {
+  display: inline-block;
+
+  }
+
+li a {
+  padding: 0 20px;
+  color: #B7B7B7;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: Helvetica;
+  }
+
+li a:hover {
+  color: #111;
+  }
+
+.active {
+  color: black;
+}
+
 .sec2 {
-  margin-top: 0px;
+  margin-top: -5px;
 }
 
 .sec1 img{
